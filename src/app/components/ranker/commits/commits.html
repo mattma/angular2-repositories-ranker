@@ -1,4 +1,8 @@
-<div>
+<div class="repo-commits">
+  <div
+    class="close-btn"
+    (click)="close.emit()"
+  >X</div>
   <ul>
     <li *ngFor="#d of data">
       <p class="author">

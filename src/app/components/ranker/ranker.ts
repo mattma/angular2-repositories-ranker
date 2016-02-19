@@ -52,6 +52,11 @@ export class RankerComponent implements OnInit, OnDestroy {
 
   onViewCommits(url: string): void {
     console.log('url: ', url);
+    this.showCommits = true;
+  }
+
+  onHideCommits(): void {
+    this.showCommits = false;
   }
 
   ngOnDestroy(): void {

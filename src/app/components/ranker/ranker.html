@@ -14,7 +14,13 @@
       ></repo>
     </li>
   </ul>
-  <div *ngIf="showCommits" class="commits">
-    <commits [data]="commits"></commits>
+  <div
+    *ngIf="showCommits"
+    [class.show-commits]="showCommits"
+    class="commits">
+    <commits
+      [data]="commits"
+      (close)="onHideCommits()"
+    ></commits>
   </div>
 </section>

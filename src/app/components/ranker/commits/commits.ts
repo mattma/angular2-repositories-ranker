@@ -10,4 +10,5 @@ const template = require('./commits.html');
 })
 export class CommitsComponent {
   @Input() data: any;
+  @Output() close: EventEmitter<string> = new EventEmitter();
 }
