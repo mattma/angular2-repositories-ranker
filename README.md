@@ -29,6 +29,10 @@ npm start
 open http://localhost:4200
 ```
 
+## How it works
+
+![github-repo-ranker](https://cloud.githubusercontent.com/assets/1148428/13168758/ad3977ea-d694-11e5-8c55-bde69a504e04.gif)
+
 ## License
 
 Copyright (c) 2016 [Matt Ma](http://mattmadesign.com)
