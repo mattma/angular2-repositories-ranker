@@ -1,1 +1,12 @@
-{{data.name}}
+<div class="repo-metric">
+  <p>
+    <a href={{data.html_url}} target="_blank">{{data.name}}</a>
+    <span>({{data.description}})</span>
+  </p>
+  <ul>
+    <li>Stargazers: <strong>{{data.stargazers_count}}</strong></li>
+    <li>Watchers: <strong>{{data.watchers_count}}</strong></li>
+    <li>Forked: <strong>{{data.forks_count}}</strong></li>
+    <li>Open Issues: <strong>{{data.open_issues_count}}</strong></li>
+  </ul>
+</div>
