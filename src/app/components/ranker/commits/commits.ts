@@ -1,14 +1,13 @@
 import {Component, Input, Output, EventEmitter, ChangeDetectionStrategy} from 'angular2/core';
 
-import './repo.sass';
-const template = require('./repo.html');
+import './commits.sass';
+const template = require('./commits.html');
 
 @Component({
-  selector: 'repo',
+  selector: 'commits',
   changeDetection: ChangeDetectionStrategy.OnPush,
   template
 })
-export class RepoComponent {
+export class CommitsComponent {
   @Input() data: any;
-  @Output() viewCommits: EventEmitter<string> = new EventEmitter();
 }

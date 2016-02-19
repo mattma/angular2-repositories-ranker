@@ -5,7 +5,6 @@ import {Pipe, PipeTransform} from 'angular2/core';
 })
 export class RankPipe implements PipeTransform{
   transform(repos: any, , [viewBy, orderBy]) {
-    console.log('matt orderBy: ', orderBy);
     return repos.sort((a, b) =>
       orderBy === 'descending' ?
         parseInt(b[viewBy]) - parseInt(a[viewBy]) :

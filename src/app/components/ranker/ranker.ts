@@ -7,6 +7,7 @@ import {RankPipe} from '../pipes/rank';
 import {ViewByComponent} from './viewby/viewby';
 import {OrderByComponent} from './orderby/orderby';
 import {RepoComponent} from './repo/repo';
+import {CommitsComponent} from './commits/commits';
 
 import data from './data';
 import './ranker.sass';
@@ -14,14 +15,16 @@ const template = require('./ranker.html');
 
 @Component({
   selector: 'ranker',
-  directives: [ViewByComponent, RepoComponent, OrderByComponent],
+  directives: [ViewByComponent, RepoComponent, OrderByComponent, CommitsComponent],
   pipes: [RankPipe],
   template
 })
 export class RankerComponent implements OnInit, OnDestroy {
   repos: any[];
+  commits: any[];
   viewBy: string;
   orderBy: string;
+  showCommits: boolean;
   unsubscribe: Function;
 
   constructor(
@@ -37,12 +40,18 @@ export class RankerComponent implements OnInit, OnDestroy {
 
   ngOnInit(): void {
     this.repos = data.netflix;
+    this.commits = data.commits;
+    this.showCommits = true;
 
     const state = this.store.getState();
     this.viewBy = state.viewBy;
     this.orderBy = state.orderBy;
 
     console.log('this.repos: ', this.repos);
+  }
+
+  onViewCommits(url: string): void {
+    console.log('url: ', url);
   }
 
   ngOnDestroy(): void {

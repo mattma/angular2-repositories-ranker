@@ -4,11 +4,17 @@
 </section>
 
 <section>
-  <ul class="repos">
+  <ul class="repos" [class.narrow]="showCommits">
     <li
       *ngFor="#repo of repos | rank: viewBy : orderBy"
     >
-      <repo [data]="repo"></repo>
+      <repo
+        [data]="repo"
+        (viewCommits)="onViewCommits($event)"
+      ></repo>
     </li>
   </ul>
+  <div *ngIf="showCommits" class="commits">
+    <commits [data]="commits"></commits>
+  </div>
 </section>

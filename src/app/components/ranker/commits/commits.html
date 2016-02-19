@@ -1,0 +1,12 @@
+<div>
+  <ul>
+    <li *ngFor="#d of data">
+      <p class="author">
+        <strong>{{d.commit.author.name}}</strong> ({{d.commit.author.email}})
+      </p>
+      <p>{{d.commit.message}}</p>
+      <p>{{d.sha}}</p>
+      <p>{{d.commit.date}}</p>
+    </li>
+  </ul>
+</div>

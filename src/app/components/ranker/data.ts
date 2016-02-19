@@ -2790,5 +2790,2035 @@ export default {
         "pull": true
       }
     }
+  ],
+
+  commits:[
+    {
+      "sha": "4324ba7d133983ef93c5e7311bd5346adcc0bdf4",
+      "commit": {
+        "author": {
+          "name": "elandau",
+          "email": "elandau@yahoo.com",
+          "date": "2016-02-01T17:03:39Z"
+        },
+        "committer": {
+          "name": "elandau",
+          "email": "elandau@yahoo.com",
+          "date": "2016-02-01T17:03:39Z"
+        },
+        "message": "Merge pull request #615 from Netflix/elandau-patch-1\n\nAstyanax is now being retired",
+        "tree": {
+          "sha": "e62ab8dba49fb3e9febbcd66c5c18d6eb527c517",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/e62ab8dba49fb3e9febbcd66c5c18d6eb527c517"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/4324ba7d133983ef93c5e7311bd5346adcc0bdf4",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/4324ba7d133983ef93c5e7311bd5346adcc0bdf4",
+      "html_url": "https://github.com/Netflix/astyanax/commit/4324ba7d133983ef93c5e7311bd5346adcc0bdf4",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/4324ba7d133983ef93c5e7311bd5346adcc0bdf4/comments",
+      "author": {
+        "login": "elandau",
+        "id": 913564,
+        "avatar_url": "https://avatars.githubusercontent.com/u/913564?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/elandau",
+        "html_url": "https://github.com/elandau",
+        "followers_url": "https://api.github.com/users/elandau/followers",
+        "following_url": "https://api.github.com/users/elandau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/elandau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/elandau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/elandau/subscriptions",
+        "organizations_url": "https://api.github.com/users/elandau/orgs",
+        "repos_url": "https://api.github.com/users/elandau/repos",
+        "events_url": "https://api.github.com/users/elandau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/elandau/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "elandau",
+        "id": 913564,
+        "avatar_url": "https://avatars.githubusercontent.com/u/913564?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/elandau",
+        "html_url": "https://github.com/elandau",
+        "followers_url": "https://api.github.com/users/elandau/followers",
+        "following_url": "https://api.github.com/users/elandau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/elandau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/elandau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/elandau/subscriptions",
+        "organizations_url": "https://api.github.com/users/elandau/orgs",
+        "repos_url": "https://api.github.com/users/elandau/repos",
+        "events_url": "https://api.github.com/users/elandau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/elandau/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4",
+          "html_url": "https://github.com/Netflix/astyanax/commit/9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4"
+        },
+        {
+          "sha": "da48ffb94792f2303209f23825d16e03af9d64d2",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/da48ffb94792f2303209f23825d16e03af9d64d2",
+          "html_url": "https://github.com/Netflix/astyanax/commit/da48ffb94792f2303209f23825d16e03af9d64d2"
+        }
+      ]
+    },
+    {
+      "sha": "da48ffb94792f2303209f23825d16e03af9d64d2",
+      "commit": {
+        "author": {
+          "name": "elandau",
+          "email": "elandau@yahoo.com",
+          "date": "2016-02-01T17:03:12Z"
+        },
+        "committer": {
+          "name": "elandau",
+          "email": "elandau@yahoo.com",
+          "date": "2016-02-01T17:03:12Z"
+        },
+        "message": "Astyanax is now being retired\n\nPlease see the following blog post for more information.\r\n\r\nhttp://techblog.netflix.com/2016/02/astyanax-retiring-old-friend.html",
+        "tree": {
+          "sha": "e62ab8dba49fb3e9febbcd66c5c18d6eb527c517",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/e62ab8dba49fb3e9febbcd66c5c18d6eb527c517"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/da48ffb94792f2303209f23825d16e03af9d64d2",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/da48ffb94792f2303209f23825d16e03af9d64d2",
+      "html_url": "https://github.com/Netflix/astyanax/commit/da48ffb94792f2303209f23825d16e03af9d64d2",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/da48ffb94792f2303209f23825d16e03af9d64d2/comments",
+      "author": {
+        "login": "elandau",
+        "id": 913564,
+        "avatar_url": "https://avatars.githubusercontent.com/u/913564?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/elandau",
+        "html_url": "https://github.com/elandau",
+        "followers_url": "https://api.github.com/users/elandau/followers",
+        "following_url": "https://api.github.com/users/elandau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/elandau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/elandau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/elandau/subscriptions",
+        "organizations_url": "https://api.github.com/users/elandau/orgs",
+        "repos_url": "https://api.github.com/users/elandau/repos",
+        "events_url": "https://api.github.com/users/elandau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/elandau/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "elandau",
+        "id": 913564,
+        "avatar_url": "https://avatars.githubusercontent.com/u/913564?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/elandau",
+        "html_url": "https://github.com/elandau",
+        "followers_url": "https://api.github.com/users/elandau/followers",
+        "following_url": "https://api.github.com/users/elandau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/elandau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/elandau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/elandau/subscriptions",
+        "organizations_url": "https://api.github.com/users/elandau/orgs",
+        "repos_url": "https://api.github.com/users/elandau/repos",
+        "events_url": "https://api.github.com/users/elandau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/elandau/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4",
+          "html_url": "https://github.com/Netflix/astyanax/commit/9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4"
+        }
+      ]
+    },
+    {
+      "sha": "9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4",
+      "commit": {
+        "author": {
+          "name": "Minh Do",
+          "email": "minh.n.do@gmail.com",
+          "date": "2016-01-27T06:55:58Z"
+        },
+        "committer": {
+          "name": "Minh Do",
+          "email": "minh.n.do@gmail.com",
+          "date": "2016-01-27T06:55:58Z"
+        },
+        "message": "Merge pull request #614 from michaelarusso/master\n\nReversed components in AbstractComposite types fail to parse on load",
+        "tree": {
+          "sha": "6600f757e622543b08e7857e10216d5d393cd863",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/6600f757e622543b08e7857e10216d5d393cd863"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4",
+      "html_url": "https://github.com/Netflix/astyanax/commit/9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/9ee9c217f3aae913e93c3c2d7362eab0ba89a6e4/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "183d7143709b05717ce7f2c36da442b4a2dc71df",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/183d7143709b05717ce7f2c36da442b4a2dc71df",
+          "html_url": "https://github.com/Netflix/astyanax/commit/183d7143709b05717ce7f2c36da442b4a2dc71df"
+        },
+        {
+          "sha": "8c7003b9ffa0e9162306b5fa6497f5469701b454",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/8c7003b9ffa0e9162306b5fa6497f5469701b454",
+          "html_url": "https://github.com/Netflix/astyanax/commit/8c7003b9ffa0e9162306b5fa6497f5469701b454"
+        }
+      ]
+    },
+    {
+      "sha": "8c7003b9ffa0e9162306b5fa6497f5469701b454",
+      "commit": {
+        "author": {
+          "name": "Michael Russo",
+          "email": "michaelarusso@gmail.com",
+          "date": "2016-01-27T00:11:36Z"
+        },
+        "committer": {
+          "name": "Michael Russo",
+          "email": "michaelarusso@gmail.com",
+          "date": "2016-01-27T00:11:36Z"
+        },
+        "message": "Merge commit 'refs/pull/484/head' of github.com:Netflix/astyanax",
+        "tree": {
+          "sha": "6600f757e622543b08e7857e10216d5d393cd863",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/6600f757e622543b08e7857e10216d5d393cd863"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/8c7003b9ffa0e9162306b5fa6497f5469701b454",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/8c7003b9ffa0e9162306b5fa6497f5469701b454",
+      "html_url": "https://github.com/Netflix/astyanax/commit/8c7003b9ffa0e9162306b5fa6497f5469701b454",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/8c7003b9ffa0e9162306b5fa6497f5469701b454/comments",
+      "author": {
+        "login": "michaelarusso",
+        "id": 1696043,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1696043?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/michaelarusso",
+        "html_url": "https://github.com/michaelarusso",
+        "followers_url": "https://api.github.com/users/michaelarusso/followers",
+        "following_url": "https://api.github.com/users/michaelarusso/following{/other_user}",
+        "gists_url": "https://api.github.com/users/michaelarusso/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/michaelarusso/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/michaelarusso/subscriptions",
+        "organizations_url": "https://api.github.com/users/michaelarusso/orgs",
+        "repos_url": "https://api.github.com/users/michaelarusso/repos",
+        "events_url": "https://api.github.com/users/michaelarusso/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/michaelarusso/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "michaelarusso",
+        "id": 1696043,
+        "avatar_url": "https://avatars.githubusercontent.com/u/1696043?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/michaelarusso",
+        "html_url": "https://github.com/michaelarusso",
+        "followers_url": "https://api.github.com/users/michaelarusso/followers",
+        "following_url": "https://api.github.com/users/michaelarusso/following{/other_user}",
+        "gists_url": "https://api.github.com/users/michaelarusso/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/michaelarusso/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/michaelarusso/subscriptions",
+        "organizations_url": "https://api.github.com/users/michaelarusso/orgs",
+        "repos_url": "https://api.github.com/users/michaelarusso/repos",
+        "events_url": "https://api.github.com/users/michaelarusso/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/michaelarusso/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "183d7143709b05717ce7f2c36da442b4a2dc71df",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/183d7143709b05717ce7f2c36da442b4a2dc71df",
+          "html_url": "https://github.com/Netflix/astyanax/commit/183d7143709b05717ce7f2c36da442b4a2dc71df"
+        },
+        {
+          "sha": "75acddc083a52a94843f758c6ed3243a83f3df0e",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/75acddc083a52a94843f758c6ed3243a83f3df0e",
+          "html_url": "https://github.com/Netflix/astyanax/commit/75acddc083a52a94843f758c6ed3243a83f3df0e"
+        }
+      ]
+    },
+    {
+      "sha": "183d7143709b05717ce7f2c36da442b4a2dc71df",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2016-01-09T06:19:04Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2016-01-09T06:19:04Z"
+        },
+        "message": "Fix a compilation error for java 8.\nUpgrade libthrift to 0.9.2 to address memory leak due to \"Capacity of TframedTransport write buffer is never reset\"",
+        "tree": {
+          "sha": "eadee79badd15a8035fca4bf53bede1b4d4bb251",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/eadee79badd15a8035fca4bf53bede1b4d4bb251"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/183d7143709b05717ce7f2c36da442b4a2dc71df",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/183d7143709b05717ce7f2c36da442b4a2dc71df",
+      "html_url": "https://github.com/Netflix/astyanax/commit/183d7143709b05717ce7f2c36da442b4a2dc71df",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/183d7143709b05717ce7f2c36da442b4a2dc71df/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "d2b64a9c951e56e0de89b299970a4da78381c21b",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/d2b64a9c951e56e0de89b299970a4da78381c21b",
+          "html_url": "https://github.com/Netflix/astyanax/commit/d2b64a9c951e56e0de89b299970a4da78381c21b"
+        }
+      ]
+    },
+    {
+      "sha": "d2b64a9c951e56e0de89b299970a4da78381c21b",
+      "commit": {
+        "author": {
+          "name": "Andrew Spyker",
+          "email": "aspyker@netflix.com",
+          "date": "2015-12-11T23:44:39Z"
+        },
+        "committer": {
+          "name": "Andrew Spyker",
+          "email": "aspyker@netflix.com",
+          "date": "2015-12-11T23:44:39Z"
+        },
+        "message": "adding OSSMETADATA for NetflixOSS tracking",
+        "tree": {
+          "sha": "98ec30635890d28fe80317a4d5c213b6a7790acc",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/98ec30635890d28fe80317a4d5c213b6a7790acc"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/d2b64a9c951e56e0de89b299970a4da78381c21b",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/d2b64a9c951e56e0de89b299970a4da78381c21b",
+      "html_url": "https://github.com/Netflix/astyanax/commit/d2b64a9c951e56e0de89b299970a4da78381c21b",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/d2b64a9c951e56e0de89b299970a4da78381c21b/comments",
+      "author": {
+        "login": "aspyker",
+        "id": 260750,
+        "avatar_url": "https://avatars.githubusercontent.com/u/260750?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/aspyker",
+        "html_url": "https://github.com/aspyker",
+        "followers_url": "https://api.github.com/users/aspyker/followers",
+        "following_url": "https://api.github.com/users/aspyker/following{/other_user}",
+        "gists_url": "https://api.github.com/users/aspyker/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/aspyker/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/aspyker/subscriptions",
+        "organizations_url": "https://api.github.com/users/aspyker/orgs",
+        "repos_url": "https://api.github.com/users/aspyker/repos",
+        "events_url": "https://api.github.com/users/aspyker/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/aspyker/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "aspyker",
+        "id": 260750,
+        "avatar_url": "https://avatars.githubusercontent.com/u/260750?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/aspyker",
+        "html_url": "https://github.com/aspyker",
+        "followers_url": "https://api.github.com/users/aspyker/followers",
+        "following_url": "https://api.github.com/users/aspyker/following{/other_user}",
+        "gists_url": "https://api.github.com/users/aspyker/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/aspyker/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/aspyker/subscriptions",
+        "organizations_url": "https://api.github.com/users/aspyker/orgs",
+        "repos_url": "https://api.github.com/users/aspyker/repos",
+        "events_url": "https://api.github.com/users/aspyker/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/aspyker/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "a6161c57cc29260118ebcc6c1eba0040c383ac1f",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/a6161c57cc29260118ebcc6c1eba0040c383ac1f",
+          "html_url": "https://github.com/Netflix/astyanax/commit/a6161c57cc29260118ebcc6c1eba0040c383ac1f"
+        }
+      ]
+    },
+    {
+      "sha": "a6161c57cc29260118ebcc6c1eba0040c383ac1f",
+      "commit": {
+        "author": {
+          "name": "mdo",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-07-10T05:41:14Z"
+        },
+        "committer": {
+          "name": "mdo",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-07-10T05:41:14Z"
+        },
+        "message": "Add tracing to allow tracking every individual request",
+        "tree": {
+          "sha": "e55fbbdf433af28fc4e9a4e891b5afdebbc80ecf",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/e55fbbdf433af28fc4e9a4e891b5afdebbc80ecf"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/a6161c57cc29260118ebcc6c1eba0040c383ac1f",
+        "comment_count": 1
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/a6161c57cc29260118ebcc6c1eba0040c383ac1f",
+      "html_url": "https://github.com/Netflix/astyanax/commit/a6161c57cc29260118ebcc6c1eba0040c383ac1f",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/a6161c57cc29260118ebcc6c1eba0040c383ac1f/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "6e72d76996c43d280b1d80a04a6220facf213e92",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/6e72d76996c43d280b1d80a04a6220facf213e92",
+          "html_url": "https://github.com/Netflix/astyanax/commit/6e72d76996c43d280b1d80a04a6220facf213e92"
+        }
+      ]
+    },
+    {
+      "sha": "6e72d76996c43d280b1d80a04a6220facf213e92",
+      "commit": {
+        "author": {
+          "name": "elandau",
+          "email": "elandau@yahoo.com",
+          "date": "2015-07-01T17:58:05Z"
+        },
+        "committer": {
+          "name": "elandau",
+          "email": "elandau@yahoo.com",
+          "date": "2015-07-01T17:58:05Z"
+        },
+        "message": "Merge pull request #584 from khawes/master\n\nSignal the ShardReaderPolicy that messages were not processed…",
+        "tree": {
+          "sha": "63cfee43c655df06692535e5223dccb891da0f44",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/63cfee43c655df06692535e5223dccb891da0f44"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/6e72d76996c43d280b1d80a04a6220facf213e92",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/6e72d76996c43d280b1d80a04a6220facf213e92",
+      "html_url": "https://github.com/Netflix/astyanax/commit/6e72d76996c43d280b1d80a04a6220facf213e92",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/6e72d76996c43d280b1d80a04a6220facf213e92/comments",
+      "author": {
+        "login": "elandau",
+        "id": 913564,
+        "avatar_url": "https://avatars.githubusercontent.com/u/913564?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/elandau",
+        "html_url": "https://github.com/elandau",
+        "followers_url": "https://api.github.com/users/elandau/followers",
+        "following_url": "https://api.github.com/users/elandau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/elandau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/elandau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/elandau/subscriptions",
+        "organizations_url": "https://api.github.com/users/elandau/orgs",
+        "repos_url": "https://api.github.com/users/elandau/repos",
+        "events_url": "https://api.github.com/users/elandau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/elandau/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "elandau",
+        "id": 913564,
+        "avatar_url": "https://avatars.githubusercontent.com/u/913564?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/elandau",
+        "html_url": "https://github.com/elandau",
+        "followers_url": "https://api.github.com/users/elandau/followers",
+        "following_url": "https://api.github.com/users/elandau/following{/other_user}",
+        "gists_url": "https://api.github.com/users/elandau/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/elandau/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/elandau/subscriptions",
+        "organizations_url": "https://api.github.com/users/elandau/orgs",
+        "repos_url": "https://api.github.com/users/elandau/repos",
+        "events_url": "https://api.github.com/users/elandau/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/elandau/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2345f0d91feba9522ef07a92126dfeeae6a71f64",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/2345f0d91feba9522ef07a92126dfeeae6a71f64",
+          "html_url": "https://github.com/Netflix/astyanax/commit/2345f0d91feba9522ef07a92126dfeeae6a71f64"
+        },
+        {
+          "sha": "1bf2ea61431347baaa412fc523f08a6779977fb2",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/1bf2ea61431347baaa412fc523f08a6779977fb2",
+          "html_url": "https://github.com/Netflix/astyanax/commit/1bf2ea61431347baaa412fc523f08a6779977fb2"
+        }
+      ]
+    },
+    {
+      "sha": "1bf2ea61431347baaa412fc523f08a6779977fb2",
+      "commit": {
+        "author": {
+          "name": "Keith Hawes",
+          "email": "khawes@netflix.com",
+          "date": "2015-06-30T21:59:40Z"
+        },
+        "committer": {
+          "name": "Keith Hawes",
+          "email": "khawes@netflix.com",
+          "date": "2015-06-30T21:59:40Z"
+        },
+        "message": "Signal the ShardReaderPolicy that messages were not processed because of an exception while reading the messages (e.g. lock contention prevented reading)  This will cause the TimesPartitionedShardReaderPolicy to keep the shard in the work queue in these cases even if the time bucket for the card is no longer current, thus preventing the shard from going idle until the time bucket loops back.",
+        "tree": {
+          "sha": "63cfee43c655df06692535e5223dccb891da0f44",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/63cfee43c655df06692535e5223dccb891da0f44"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/1bf2ea61431347baaa412fc523f08a6779977fb2",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/1bf2ea61431347baaa412fc523f08a6779977fb2",
+      "html_url": "https://github.com/Netflix/astyanax/commit/1bf2ea61431347baaa412fc523f08a6779977fb2",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/1bf2ea61431347baaa412fc523f08a6779977fb2/comments",
+      "author": {
+        "login": "khawes",
+        "id": 3373512,
+        "avatar_url": "https://avatars.githubusercontent.com/u/3373512?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/khawes",
+        "html_url": "https://github.com/khawes",
+        "followers_url": "https://api.github.com/users/khawes/followers",
+        "following_url": "https://api.github.com/users/khawes/following{/other_user}",
+        "gists_url": "https://api.github.com/users/khawes/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/khawes/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/khawes/subscriptions",
+        "organizations_url": "https://api.github.com/users/khawes/orgs",
+        "repos_url": "https://api.github.com/users/khawes/repos",
+        "events_url": "https://api.github.com/users/khawes/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/khawes/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "khawes",
+        "id": 3373512,
+        "avatar_url": "https://avatars.githubusercontent.com/u/3373512?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/khawes",
+        "html_url": "https://github.com/khawes",
+        "followers_url": "https://api.github.com/users/khawes/followers",
+        "following_url": "https://api.github.com/users/khawes/following{/other_user}",
+        "gists_url": "https://api.github.com/users/khawes/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/khawes/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/khawes/subscriptions",
+        "organizations_url": "https://api.github.com/users/khawes/orgs",
+        "repos_url": "https://api.github.com/users/khawes/repos",
+        "events_url": "https://api.github.com/users/khawes/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/khawes/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2345f0d91feba9522ef07a92126dfeeae6a71f64",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/2345f0d91feba9522ef07a92126dfeeae6a71f64",
+          "html_url": "https://github.com/Netflix/astyanax/commit/2345f0d91feba9522ef07a92126dfeeae6a71f64"
+        }
+      ]
+    },
+    {
+      "sha": "2345f0d91feba9522ef07a92126dfeeae6a71f64",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-06-18T07:16:06Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-06-18T07:16:06Z"
+        },
+        "message": "Add logging in retries.\nAlso revert back  BadRequestException.java as it might not help the earlier bug and might cause a side-effect",
+        "tree": {
+          "sha": "0ca6692cc61348ae963de1347f6d87707b3298f6",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/0ca6692cc61348ae963de1347f6d87707b3298f6"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/2345f0d91feba9522ef07a92126dfeeae6a71f64",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/2345f0d91feba9522ef07a92126dfeeae6a71f64",
+      "html_url": "https://github.com/Netflix/astyanax/commit/2345f0d91feba9522ef07a92126dfeeae6a71f64",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/2345f0d91feba9522ef07a92126dfeeae6a71f64/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "b6f8d31da923412f00cd06610e9cd60c91cb64e5",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/b6f8d31da923412f00cd06610e9cd60c91cb64e5",
+          "html_url": "https://github.com/Netflix/astyanax/commit/b6f8d31da923412f00cd06610e9cd60c91cb64e5"
+        }
+      ]
+    },
+    {
+      "sha": "b6f8d31da923412f00cd06610e9cd60c91cb64e5",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-06-09T20:41:33Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-06-09T20:41:33Z"
+        },
+        "message": "bump guave version to 16.0.1",
+        "tree": {
+          "sha": "e4a5bf3937a3fc567d401fe341a821b90dc3ff70",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/e4a5bf3937a3fc567d401fe341a821b90dc3ff70"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/b6f8d31da923412f00cd06610e9cd60c91cb64e5",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/b6f8d31da923412f00cd06610e9cd60c91cb64e5",
+      "html_url": "https://github.com/Netflix/astyanax/commit/b6f8d31da923412f00cd06610e9cd60c91cb64e5",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/b6f8d31da923412f00cd06610e9cd60c91cb64e5/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2908f600af92302deec964888622455528875216",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/2908f600af92302deec964888622455528875216",
+          "html_url": "https://github.com/Netflix/astyanax/commit/2908f600af92302deec964888622455528875216"
+        }
+      ]
+    },
+    {
+      "sha": "2908f600af92302deec964888622455528875216",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-06-09T20:38:13Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-06-09T20:38:13Z"
+        },
+        "message": "Move this file here so users can leverage it for testing",
+        "tree": {
+          "sha": "5721a8093826e299eea0deed5854ac00817d0d5b",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/5721a8093826e299eea0deed5854ac00817d0d5b"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/2908f600af92302deec964888622455528875216",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/2908f600af92302deec964888622455528875216",
+      "html_url": "https://github.com/Netflix/astyanax/commit/2908f600af92302deec964888622455528875216",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/2908f600af92302deec964888622455528875216/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "98f5bdae3f889517e647b1dea6e172b0c041cfdb",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/98f5bdae3f889517e647b1dea6e172b0c041cfdb",
+          "html_url": "https://github.com/Netflix/astyanax/commit/98f5bdae3f889517e647b1dea6e172b0c041cfdb"
+        }
+      ]
+    },
+    {
+      "sha": "98f5bdae3f889517e647b1dea6e172b0c041cfdb",
+      "commit": {
+        "author": {
+          "name": "Minh Do",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-06-04T23:38:53Z"
+        },
+        "committer": {
+          "name": "Minh Do",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-06-04T23:38:53Z"
+        },
+        "message": "Merge pull request #547 from pyal/master\n\n making MaxThriftSize configurable according to yaml thrift_max_message_length_in_mb paramter",
+        "tree": {
+          "sha": "0bea100ab3524df1f669a815ba5642f5f6ddc4ad",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/0bea100ab3524df1f669a815ba5642f5f6ddc4ad"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/98f5bdae3f889517e647b1dea6e172b0c041cfdb",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/98f5bdae3f889517e647b1dea6e172b0c041cfdb",
+      "html_url": "https://github.com/Netflix/astyanax/commit/98f5bdae3f889517e647b1dea6e172b0c041cfdb",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/98f5bdae3f889517e647b1dea6e172b0c041cfdb/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "890d0087d7be186fd2732ee36b4aad81beb7e3eb",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/890d0087d7be186fd2732ee36b4aad81beb7e3eb",
+          "html_url": "https://github.com/Netflix/astyanax/commit/890d0087d7be186fd2732ee36b4aad81beb7e3eb"
+        },
+        {
+          "sha": "be43e7581cb96839f3fb5895d7210fcd7711f6ec",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/be43e7581cb96839f3fb5895d7210fcd7711f6ec",
+          "html_url": "https://github.com/Netflix/astyanax/commit/be43e7581cb96839f3fb5895d7210fcd7711f6ec"
+        }
+      ]
+    },
+    {
+      "sha": "890d0087d7be186fd2732ee36b4aad81beb7e3eb",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-24T07:57:34Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-24T07:57:34Z"
+        },
+        "message": "Move all test files to astyanax-test to avoid dependency complexity as user application never include this component in their apps.\nAlso move cassandra-all to 2.0.12 and java driver to 2.0.5 as well as resolving some API incompatilibities due to these changes.",
+        "tree": {
+          "sha": "bca60d8d83ea3e48acf66aea14e011f8fdbf52fb",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/bca60d8d83ea3e48acf66aea14e011f8fdbf52fb"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/890d0087d7be186fd2732ee36b4aad81beb7e3eb",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/890d0087d7be186fd2732ee36b4aad81beb7e3eb",
+      "html_url": "https://github.com/Netflix/astyanax/commit/890d0087d7be186fd2732ee36b4aad81beb7e3eb",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/890d0087d7be186fd2732ee36b4aad81beb7e3eb/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "0d1616635c54341adb85e1f0b0da62ab36f80be2",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/0d1616635c54341adb85e1f0b0da62ab36f80be2",
+          "html_url": "https://github.com/Netflix/astyanax/commit/0d1616635c54341adb85e1f0b0da62ab36f80be2"
+        }
+      ]
+    },
+    {
+      "sha": "0d1616635c54341adb85e1f0b0da62ab36f80be2",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-14T22:29:32Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-14T22:29:32Z"
+        },
+        "message": "exclude out org.apache.cassandra.deps groupid",
+        "tree": {
+          "sha": "0d3fc218bf36fba15ff0fa9bd7c347b51cdb8f50",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/0d3fc218bf36fba15ff0fa9bd7c347b51cdb8f50"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/0d1616635c54341adb85e1f0b0da62ab36f80be2",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/0d1616635c54341adb85e1f0b0da62ab36f80be2",
+      "html_url": "https://github.com/Netflix/astyanax/commit/0d1616635c54341adb85e1f0b0da62ab36f80be2",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/0d1616635c54341adb85e1f0b0da62ab36f80be2/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "5fcd603d4b7cecf1d9b024a61c036f98782deeb1",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/5fcd603d4b7cecf1d9b024a61c036f98782deeb1",
+          "html_url": "https://github.com/Netflix/astyanax/commit/5fcd603d4b7cecf1d9b024a61c036f98782deeb1"
+        }
+      ]
+    },
+    {
+      "sha": "5fcd603d4b7cecf1d9b024a61c036f98782deeb1",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-14T21:02:12Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-14T21:02:12Z"
+        },
+        "message": "Inject the appropriate monitor object for CQL Java Native driver",
+        "tree": {
+          "sha": "175e354f2a8d04de01fd3046ba50708e262ef8bd",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/175e354f2a8d04de01fd3046ba50708e262ef8bd"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/5fcd603d4b7cecf1d9b024a61c036f98782deeb1",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/5fcd603d4b7cecf1d9b024a61c036f98782deeb1",
+      "html_url": "https://github.com/Netflix/astyanax/commit/5fcd603d4b7cecf1d9b024a61c036f98782deeb1",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/5fcd603d4b7cecf1d9b024a61c036f98782deeb1/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "7286de0aeb4a8c855edd273ac239014780a258aa",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/7286de0aeb4a8c855edd273ac239014780a258aa",
+          "html_url": "https://github.com/Netflix/astyanax/commit/7286de0aeb4a8c855edd273ac239014780a258aa"
+        }
+      ]
+    },
+    {
+      "sha": "7286de0aeb4a8c855edd273ac239014780a258aa",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T23:00:37Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T23:00:37Z"
+        },
+        "message": "Remove tests on unused code",
+        "tree": {
+          "sha": "730fa978c2f9ea2d8a9f9648d4953434772278d8",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/730fa978c2f9ea2d8a9f9648d4953434772278d8"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/7286de0aeb4a8c855edd273ac239014780a258aa",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/7286de0aeb4a8c855edd273ac239014780a258aa",
+      "html_url": "https://github.com/Netflix/astyanax/commit/7286de0aeb4a8c855edd273ac239014780a258aa",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/7286de0aeb4a8c855edd273ac239014780a258aa/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "9c83125253830b317c9228fad7e7557fe3e7a338",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/9c83125253830b317c9228fad7e7557fe3e7a338",
+          "html_url": "https://github.com/Netflix/astyanax/commit/9c83125253830b317c9228fad7e7557fe3e7a338"
+        }
+      ]
+    },
+    {
+      "sha": "9c83125253830b317c9228fad7e7557fe3e7a338",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T22:41:46Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T22:41:46Z"
+        },
+        "message": "Not sure why this fails some time - removing it now so we can do a build and also we don't really use it currently the RollingTimeWIndowValve",
+        "tree": {
+          "sha": "1d63797d4d98196e389a84530afb13ecdaafb355",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/1d63797d4d98196e389a84530afb13ecdaafb355"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/9c83125253830b317c9228fad7e7557fe3e7a338",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/9c83125253830b317c9228fad7e7557fe3e7a338",
+      "html_url": "https://github.com/Netflix/astyanax/commit/9c83125253830b317c9228fad7e7557fe3e7a338",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/9c83125253830b317c9228fad7e7557fe3e7a338/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "028e3a16f6614ed05014fd170ae2644345af6f35",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/028e3a16f6614ed05014fd170ae2644345af6f35",
+          "html_url": "https://github.com/Netflix/astyanax/commit/028e3a16f6614ed05014fd170ae2644345af6f35"
+        }
+      ]
+    },
+    {
+      "sha": "028e3a16f6614ed05014fd170ae2644345af6f35",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T17:57:47Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T17:57:47Z"
+        },
+        "message": "pump up java driver version to 2.0.5",
+        "tree": {
+          "sha": "7aa6dcac425881f4bf2fff3e43f8959a4920270a",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/7aa6dcac425881f4bf2fff3e43f8959a4920270a"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/028e3a16f6614ed05014fd170ae2644345af6f35",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/028e3a16f6614ed05014fd170ae2644345af6f35",
+      "html_url": "https://github.com/Netflix/astyanax/commit/028e3a16f6614ed05014fd170ae2644345af6f35",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/028e3a16f6614ed05014fd170ae2644345af6f35/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "53a4268df8e78adbbd15ff4b42263489e84f8107",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/53a4268df8e78adbbd15ff4b42263489e84f8107",
+          "html_url": "https://github.com/Netflix/astyanax/commit/53a4268df8e78adbbd15ff4b42263489e84f8107"
+        }
+      ]
+    },
+    {
+      "sha": "53a4268df8e78adbbd15ff4b42263489e84f8107",
+      "commit": {
+        "author": {
+          "name": "Minh Do",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T16:56:48Z"
+        },
+        "committer": {
+          "name": "Minh Do",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T16:56:48Z"
+        },
+        "message": "Merge pull request #568 from rspieldenner/netflixossbuild\n\nNetflixossbuild",
+        "tree": {
+          "sha": "a04e54d612755794be5f6fba00e7e348ea595554",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/a04e54d612755794be5f6fba00e7e348ea595554"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/53a4268df8e78adbbd15ff4b42263489e84f8107",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/53a4268df8e78adbbd15ff4b42263489e84f8107",
+      "html_url": "https://github.com/Netflix/astyanax/commit/53a4268df8e78adbbd15ff4b42263489e84f8107",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/53a4268df8e78adbbd15ff4b42263489e84f8107/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "57046ef8d300b5c14cc8ab7fd7dbb34c759bb9aa",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/57046ef8d300b5c14cc8ab7fd7dbb34c759bb9aa",
+          "html_url": "https://github.com/Netflix/astyanax/commit/57046ef8d300b5c14cc8ab7fd7dbb34c759bb9aa"
+        },
+        {
+          "sha": "03dc41fdf82efb05a4c28a0e69e0129f3a8ad6d0",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/03dc41fdf82efb05a4c28a0e69e0129f3a8ad6d0",
+          "html_url": "https://github.com/Netflix/astyanax/commit/03dc41fdf82efb05a4c28a0e69e0129f3a8ad6d0"
+        }
+      ]
+    },
+    {
+      "sha": "57046ef8d300b5c14cc8ab7fd7dbb34c759bb9aa",
+      "commit": {
+        "author": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T06:04:55Z"
+        },
+        "committer": {
+          "name": "timiblossom",
+          "email": "minh.n.do@gmail.com",
+          "date": "2015-05-12T06:04:55Z"
+        },
+        "message": "Make BadRequestException to be IsRetryableException so that it can work with our  retry policy.\nIn direct CQL with java native driver, C* server would cache a prepare statement by id and purge out the id after some time.\nHowever, when this occurs, C* server throw back an InvalidRequestException and A6X converts it into BadRequestException.\nTherefore, for such case, our retry should happen with this patch.  The side-effect of this is that an invalid syntax query/request\nwill have retries but this won't happen in production operation as people know what they are doing and would never send any invalid syntax queries or requests.",
+        "tree": {
+          "sha": "be5021d2fc4daa2f8845906b9a9928d388cedf8b",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/be5021d2fc4daa2f8845906b9a9928d388cedf8b"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/57046ef8d300b5c14cc8ab7fd7dbb34c759bb9aa",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/57046ef8d300b5c14cc8ab7fd7dbb34c759bb9aa",
+      "html_url": "https://github.com/Netflix/astyanax/commit/57046ef8d300b5c14cc8ab7fd7dbb34c759bb9aa",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/57046ef8d300b5c14cc8ab7fd7dbb34c759bb9aa/comments",
+      "author": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "timiblossom",
+        "id": 869280,
+        "avatar_url": "https://avatars.githubusercontent.com/u/869280?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/timiblossom",
+        "html_url": "https://github.com/timiblossom",
+        "followers_url": "https://api.github.com/users/timiblossom/followers",
+        "following_url": "https://api.github.com/users/timiblossom/following{/other_user}",
+        "gists_url": "https://api.github.com/users/timiblossom/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/timiblossom/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/timiblossom/subscriptions",
+        "organizations_url": "https://api.github.com/users/timiblossom/orgs",
+        "repos_url": "https://api.github.com/users/timiblossom/repos",
+        "events_url": "https://api.github.com/users/timiblossom/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/timiblossom/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "9c195a211555c617f6fb92210670273d2af64374",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/9c195a211555c617f6fb92210670273d2af64374",
+          "html_url": "https://github.com/Netflix/astyanax/commit/9c195a211555c617f6fb92210670273d2af64374"
+        }
+      ]
+    },
+    {
+      "sha": "03dc41fdf82efb05a4c28a0e69e0129f3a8ad6d0",
+      "commit": {
+        "author": {
+          "name": "Rob Spieldenner",
+          "email": "rob.spieldenner@gmail.com",
+          "date": "2015-01-30T20:15:07Z"
+        },
+        "committer": {
+          "name": "Rob Spieldenner",
+          "email": "rob.spieldenner@gmail.com",
+          "date": "2015-01-30T20:15:07Z"
+        },
+        "message": "Remove unneeded version property. CHANGELOG to expected name",
+        "tree": {
+          "sha": "285c225fe22ce685b49b2d230025ee667127de79",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/285c225fe22ce685b49b2d230025ee667127de79"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/03dc41fdf82efb05a4c28a0e69e0129f3a8ad6d0",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/03dc41fdf82efb05a4c28a0e69e0129f3a8ad6d0",
+      "html_url": "https://github.com/Netflix/astyanax/commit/03dc41fdf82efb05a4c28a0e69e0129f3a8ad6d0",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/03dc41fdf82efb05a4c28a0e69e0129f3a8ad6d0/comments",
+      "author": {
+        "login": "rspieldenner",
+        "id": 782102,
+        "avatar_url": "https://avatars.githubusercontent.com/u/782102?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rspieldenner",
+        "html_url": "https://github.com/rspieldenner",
+        "followers_url": "https://api.github.com/users/rspieldenner/followers",
+        "following_url": "https://api.github.com/users/rspieldenner/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rspieldenner/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rspieldenner/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rspieldenner/subscriptions",
+        "organizations_url": "https://api.github.com/users/rspieldenner/orgs",
+        "repos_url": "https://api.github.com/users/rspieldenner/repos",
+        "events_url": "https://api.github.com/users/rspieldenner/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rspieldenner/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "rspieldenner",
+        "id": 782102,
+        "avatar_url": "https://avatars.githubusercontent.com/u/782102?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rspieldenner",
+        "html_url": "https://github.com/rspieldenner",
+        "followers_url": "https://api.github.com/users/rspieldenner/followers",
+        "following_url": "https://api.github.com/users/rspieldenner/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rspieldenner/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rspieldenner/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rspieldenner/subscriptions",
+        "organizations_url": "https://api.github.com/users/rspieldenner/orgs",
+        "repos_url": "https://api.github.com/users/rspieldenner/repos",
+        "events_url": "https://api.github.com/users/rspieldenner/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rspieldenner/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "8bf6ec358ef2d0c61ef9d7331e7bac50b3e3cd98",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/8bf6ec358ef2d0c61ef9d7331e7bac50b3e3cd98",
+          "html_url": "https://github.com/Netflix/astyanax/commit/8bf6ec358ef2d0c61ef9d7331e7bac50b3e3cd98"
+        }
+      ]
+    },
+    {
+      "sha": "8bf6ec358ef2d0c61ef9d7331e7bac50b3e3cd98",
+      "commit": {
+        "author": {
+          "name": "Rob Spieldenner",
+          "email": "rob.spieldenner@gmail.com",
+          "date": "2015-01-30T18:37:22Z"
+        },
+        "committer": {
+          "name": "Rob Spieldenner",
+          "email": "rob.spieldenner@gmail.com",
+          "date": "2015-01-30T18:37:22Z"
+        },
+        "message": "Cleanup conf directory to be src/main/resources. Put resources in resources directory.",
+        "tree": {
+          "sha": "41326333336e5c5f69fc6ba045807c29f110bf72",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/41326333336e5c5f69fc6ba045807c29f110bf72"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/8bf6ec358ef2d0c61ef9d7331e7bac50b3e3cd98",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/8bf6ec358ef2d0c61ef9d7331e7bac50b3e3cd98",
+      "html_url": "https://github.com/Netflix/astyanax/commit/8bf6ec358ef2d0c61ef9d7331e7bac50b3e3cd98",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/8bf6ec358ef2d0c61ef9d7331e7bac50b3e3cd98/comments",
+      "author": {
+        "login": "rspieldenner",
+        "id": 782102,
+        "avatar_url": "https://avatars.githubusercontent.com/u/782102?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rspieldenner",
+        "html_url": "https://github.com/rspieldenner",
+        "followers_url": "https://api.github.com/users/rspieldenner/followers",
+        "following_url": "https://api.github.com/users/rspieldenner/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rspieldenner/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rspieldenner/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rspieldenner/subscriptions",
+        "organizations_url": "https://api.github.com/users/rspieldenner/orgs",
+        "repos_url": "https://api.github.com/users/rspieldenner/repos",
+        "events_url": "https://api.github.com/users/rspieldenner/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rspieldenner/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "rspieldenner",
+        "id": 782102,
+        "avatar_url": "https://avatars.githubusercontent.com/u/782102?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rspieldenner",
+        "html_url": "https://github.com/rspieldenner",
+        "followers_url": "https://api.github.com/users/rspieldenner/followers",
+        "following_url": "https://api.github.com/users/rspieldenner/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rspieldenner/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rspieldenner/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rspieldenner/subscriptions",
+        "organizations_url": "https://api.github.com/users/rspieldenner/orgs",
+        "repos_url": "https://api.github.com/users/rspieldenner/repos",
+        "events_url": "https://api.github.com/users/rspieldenner/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rspieldenner/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "076ae923bfdae67de12e6a75840435e5ae56ae46",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/076ae923bfdae67de12e6a75840435e5ae56ae46",
+          "html_url": "https://github.com/Netflix/astyanax/commit/076ae923bfdae67de12e6a75840435e5ae56ae46"
+        }
+      ]
+    },
+    {
+      "sha": "076ae923bfdae67de12e6a75840435e5ae56ae46",
+      "commit": {
+        "author": {
+          "name": "Rob Spieldenner",
+          "email": "rob.spieldenner@gmail.com",
+          "date": "2015-01-30T18:18:11Z"
+        },
+        "committer": {
+          "name": "Rob Spieldenner",
+          "email": "rob.spieldenner@gmail.com",
+          "date": "2015-01-30T18:18:20Z"
+        },
+        "message": "Move to java 1.6 compatibility (nebula.netflixoss defaults to 1.7)",
+        "tree": {
+          "sha": "a8f4877896fed4d6aebc30466975bc6059e0c2c4",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/a8f4877896fed4d6aebc30466975bc6059e0c2c4"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/076ae923bfdae67de12e6a75840435e5ae56ae46",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/076ae923bfdae67de12e6a75840435e5ae56ae46",
+      "html_url": "https://github.com/Netflix/astyanax/commit/076ae923bfdae67de12e6a75840435e5ae56ae46",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/076ae923bfdae67de12e6a75840435e5ae56ae46/comments",
+      "author": {
+        "login": "rspieldenner",
+        "id": 782102,
+        "avatar_url": "https://avatars.githubusercontent.com/u/782102?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rspieldenner",
+        "html_url": "https://github.com/rspieldenner",
+        "followers_url": "https://api.github.com/users/rspieldenner/followers",
+        "following_url": "https://api.github.com/users/rspieldenner/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rspieldenner/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rspieldenner/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rspieldenner/subscriptions",
+        "organizations_url": "https://api.github.com/users/rspieldenner/orgs",
+        "repos_url": "https://api.github.com/users/rspieldenner/repos",
+        "events_url": "https://api.github.com/users/rspieldenner/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rspieldenner/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "rspieldenner",
+        "id": 782102,
+        "avatar_url": "https://avatars.githubusercontent.com/u/782102?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rspieldenner",
+        "html_url": "https://github.com/rspieldenner",
+        "followers_url": "https://api.github.com/users/rspieldenner/followers",
+        "following_url": "https://api.github.com/users/rspieldenner/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rspieldenner/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rspieldenner/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rspieldenner/subscriptions",
+        "organizations_url": "https://api.github.com/users/rspieldenner/orgs",
+        "repos_url": "https://api.github.com/users/rspieldenner/repos",
+        "events_url": "https://api.github.com/users/rspieldenner/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rspieldenner/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "0bb1601d8d20ebf2b8ec488fe5104d81b9f5d1d4",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/0bb1601d8d20ebf2b8ec488fe5104d81b9f5d1d4",
+          "html_url": "https://github.com/Netflix/astyanax/commit/0bb1601d8d20ebf2b8ec488fe5104d81b9f5d1d4"
+        }
+      ]
+    },
+    {
+      "sha": "0bb1601d8d20ebf2b8ec488fe5104d81b9f5d1d4",
+      "commit": {
+        "author": {
+          "name": "Rob Spieldenner",
+          "email": "rob.spieldenner@gmail.com",
+          "date": "2015-01-30T17:58:12Z"
+        },
+        "committer": {
+          "name": "Rob Spieldenner",
+          "email": "rob.spieldenner@gmail.com",
+          "date": "2015-01-30T17:58:12Z"
+        },
+        "message": "NetflixOSS build upgrade",
+        "tree": {
+          "sha": "745a812a916b7e712d4647f7e3446928729ea7df",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/745a812a916b7e712d4647f7e3446928729ea7df"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/0bb1601d8d20ebf2b8ec488fe5104d81b9f5d1d4",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/0bb1601d8d20ebf2b8ec488fe5104d81b9f5d1d4",
+      "html_url": "https://github.com/Netflix/astyanax/commit/0bb1601d8d20ebf2b8ec488fe5104d81b9f5d1d4",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/0bb1601d8d20ebf2b8ec488fe5104d81b9f5d1d4/comments",
+      "author": {
+        "login": "rspieldenner",
+        "id": 782102,
+        "avatar_url": "https://avatars.githubusercontent.com/u/782102?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rspieldenner",
+        "html_url": "https://github.com/rspieldenner",
+        "followers_url": "https://api.github.com/users/rspieldenner/followers",
+        "following_url": "https://api.github.com/users/rspieldenner/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rspieldenner/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rspieldenner/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rspieldenner/subscriptions",
+        "organizations_url": "https://api.github.com/users/rspieldenner/orgs",
+        "repos_url": "https://api.github.com/users/rspieldenner/repos",
+        "events_url": "https://api.github.com/users/rspieldenner/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rspieldenner/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "rspieldenner",
+        "id": 782102,
+        "avatar_url": "https://avatars.githubusercontent.com/u/782102?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/rspieldenner",
+        "html_url": "https://github.com/rspieldenner",
+        "followers_url": "https://api.github.com/users/rspieldenner/followers",
+        "following_url": "https://api.github.com/users/rspieldenner/following{/other_user}",
+        "gists_url": "https://api.github.com/users/rspieldenner/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/rspieldenner/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/rspieldenner/subscriptions",
+        "organizations_url": "https://api.github.com/users/rspieldenner/orgs",
+        "repos_url": "https://api.github.com/users/rspieldenner/repos",
+        "events_url": "https://api.github.com/users/rspieldenner/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/rspieldenner/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "9c195a211555c617f6fb92210670273d2af64374",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/9c195a211555c617f6fb92210670273d2af64374",
+          "html_url": "https://github.com/Netflix/astyanax/commit/9c195a211555c617f6fb92210670273d2af64374"
+        }
+      ]
+    },
+    {
+      "sha": "9c195a211555c617f6fb92210670273d2af64374",
+      "commit": {
+        "author": {
+          "name": "Bob T Builder",
+          "email": "builds@netflix.com",
+          "date": "2015-01-26T21:37:37Z"
+        },
+        "committer": {
+          "name": "Bob T Builder",
+          "email": "builds@netflix.com",
+          "date": "2015-01-26T21:37:37Z"
+        },
+        "message": "[Gradle Release Plugin] - new version commit:  '2.0.4-SNAPSHOT'.",
+        "tree": {
+          "sha": "d2bc16fd3635fc7f8a319f7ceccfe8fd3685318e",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/d2bc16fd3635fc7f8a319f7ceccfe8fd3685318e"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/9c195a211555c617f6fb92210670273d2af64374",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/9c195a211555c617f6fb92210670273d2af64374",
+      "html_url": "https://github.com/Netflix/astyanax/commit/9c195a211555c617f6fb92210670273d2af64374",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/9c195a211555c617f6fb92210670273d2af64374/comments",
+      "author": null,
+      "committer": null,
+      "parents": [
+        {
+          "sha": "0146a6fc6ad61c8eb0173e1f4dca9429a3f1e969",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/0146a6fc6ad61c8eb0173e1f4dca9429a3f1e969",
+          "html_url": "https://github.com/Netflix/astyanax/commit/0146a6fc6ad61c8eb0173e1f4dca9429a3f1e969"
+        }
+      ]
+    },
+    {
+      "sha": "0146a6fc6ad61c8eb0173e1f4dca9429a3f1e969",
+      "commit": {
+        "author": {
+          "name": "Bob T Builder",
+          "email": "builds@netflix.com",
+          "date": "2015-01-26T21:37:34Z"
+        },
+        "committer": {
+          "name": "Bob T Builder",
+          "email": "builds@netflix.com",
+          "date": "2015-01-26T21:37:34Z"
+        },
+        "message": "[Gradle Release Plugin] - pre tag commit:  '2.0.3'.",
+        "tree": {
+          "sha": "9d95e1921099a24c2b61a655779e7fdef27c646a",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/9d95e1921099a24c2b61a655779e7fdef27c646a"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/0146a6fc6ad61c8eb0173e1f4dca9429a3f1e969",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/0146a6fc6ad61c8eb0173e1f4dca9429a3f1e969",
+      "html_url": "https://github.com/Netflix/astyanax/commit/0146a6fc6ad61c8eb0173e1f4dca9429a3f1e969",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/0146a6fc6ad61c8eb0173e1f4dca9429a3f1e969/comments",
+      "author": null,
+      "committer": null,
+      "parents": [
+        {
+          "sha": "bef4c3d6ce680b1b6323b829c12c97431e3d8744",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/bef4c3d6ce680b1b6323b829c12c97431e3d8744",
+          "html_url": "https://github.com/Netflix/astyanax/commit/bef4c3d6ce680b1b6323b829c12c97431e3d8744"
+        }
+      ]
+    },
+    {
+      "sha": "bef4c3d6ce680b1b6323b829c12c97431e3d8744",
+      "commit": {
+        "author": {
+          "name": "opuneet",
+          "email": "poberai@netflix.com",
+          "date": "2015-01-26T20:52:19Z"
+        },
+        "committer": {
+          "name": "opuneet",
+          "email": "poberai@netflix.com",
+          "date": "2015-01-26T20:52:19Z"
+        },
+        "message": "Merge pull request #565 from opuneet/master\n\nAdding in rolling time window based load shedder",
+        "tree": {
+          "sha": "f130c8f16d8dfb9b0171a20a17002abefec1d3b5",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/f130c8f16d8dfb9b0171a20a17002abefec1d3b5"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/bef4c3d6ce680b1b6323b829c12c97431e3d8744",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/bef4c3d6ce680b1b6323b829c12c97431e3d8744",
+      "html_url": "https://github.com/Netflix/astyanax/commit/bef4c3d6ce680b1b6323b829c12c97431e3d8744",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/bef4c3d6ce680b1b6323b829c12c97431e3d8744/comments",
+      "author": {
+        "login": "opuneet",
+        "id": 2856701,
+        "avatar_url": "https://avatars.githubusercontent.com/u/2856701?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/opuneet",
+        "html_url": "https://github.com/opuneet",
+        "followers_url": "https://api.github.com/users/opuneet/followers",
+        "following_url": "https://api.github.com/users/opuneet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/opuneet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/opuneet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/opuneet/subscriptions",
+        "organizations_url": "https://api.github.com/users/opuneet/orgs",
+        "repos_url": "https://api.github.com/users/opuneet/repos",
+        "events_url": "https://api.github.com/users/opuneet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/opuneet/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "opuneet",
+        "id": 2856701,
+        "avatar_url": "https://avatars.githubusercontent.com/u/2856701?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/opuneet",
+        "html_url": "https://github.com/opuneet",
+        "followers_url": "https://api.github.com/users/opuneet/followers",
+        "following_url": "https://api.github.com/users/opuneet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/opuneet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/opuneet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/opuneet/subscriptions",
+        "organizations_url": "https://api.github.com/users/opuneet/orgs",
+        "repos_url": "https://api.github.com/users/opuneet/repos",
+        "events_url": "https://api.github.com/users/opuneet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/opuneet/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "bf1119eb7fd2bc55a127a8bbdf728504f099e8cc",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/bf1119eb7fd2bc55a127a8bbdf728504f099e8cc",
+          "html_url": "https://github.com/Netflix/astyanax/commit/bf1119eb7fd2bc55a127a8bbdf728504f099e8cc"
+        },
+        {
+          "sha": "94cfaf3d2666d6e9ebb016b461d187095d5eca4f",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/94cfaf3d2666d6e9ebb016b461d187095d5eca4f",
+          "html_url": "https://github.com/Netflix/astyanax/commit/94cfaf3d2666d6e9ebb016b461d187095d5eca4f"
+        }
+      ]
+    },
+    {
+      "sha": "94cfaf3d2666d6e9ebb016b461d187095d5eca4f",
+      "commit": {
+        "author": {
+          "name": "Puneet Oberai",
+          "email": "poberai@netflix.com",
+          "date": "2015-01-23T06:47:18Z"
+        },
+        "committer": {
+          "name": "Puneet Oberai",
+          "email": "poberai@netflix.com",
+          "date": "2015-01-23T06:47:18Z"
+        },
+        "message": "Adding in rolling time window based load shedder",
+        "tree": {
+          "sha": "f130c8f16d8dfb9b0171a20a17002abefec1d3b5",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/f130c8f16d8dfb9b0171a20a17002abefec1d3b5"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/94cfaf3d2666d6e9ebb016b461d187095d5eca4f",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/94cfaf3d2666d6e9ebb016b461d187095d5eca4f",
+      "html_url": "https://github.com/Netflix/astyanax/commit/94cfaf3d2666d6e9ebb016b461d187095d5eca4f",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/94cfaf3d2666d6e9ebb016b461d187095d5eca4f/comments",
+      "author": {
+        "login": "opuneet",
+        "id": 2856701,
+        "avatar_url": "https://avatars.githubusercontent.com/u/2856701?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/opuneet",
+        "html_url": "https://github.com/opuneet",
+        "followers_url": "https://api.github.com/users/opuneet/followers",
+        "following_url": "https://api.github.com/users/opuneet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/opuneet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/opuneet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/opuneet/subscriptions",
+        "organizations_url": "https://api.github.com/users/opuneet/orgs",
+        "repos_url": "https://api.github.com/users/opuneet/repos",
+        "events_url": "https://api.github.com/users/opuneet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/opuneet/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "opuneet",
+        "id": 2856701,
+        "avatar_url": "https://avatars.githubusercontent.com/u/2856701?v=3",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/opuneet",
+        "html_url": "https://github.com/opuneet",
+        "followers_url": "https://api.github.com/users/opuneet/followers",
+        "following_url": "https://api.github.com/users/opuneet/following{/other_user}",
+        "gists_url": "https://api.github.com/users/opuneet/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/opuneet/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/opuneet/subscriptions",
+        "organizations_url": "https://api.github.com/users/opuneet/orgs",
+        "repos_url": "https://api.github.com/users/opuneet/repos",
+        "events_url": "https://api.github.com/users/opuneet/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/opuneet/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "bf1119eb7fd2bc55a127a8bbdf728504f099e8cc",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/bf1119eb7fd2bc55a127a8bbdf728504f099e8cc",
+          "html_url": "https://github.com/Netflix/astyanax/commit/bf1119eb7fd2bc55a127a8bbdf728504f099e8cc"
+        }
+      ]
+    },
+    {
+      "sha": "be43e7581cb96839f3fb5895d7210fcd7711f6ec",
+      "commit": {
+        "author": {
+          "name": "Alexey Pyalling",
+          "email": "alexey@ooyala.com",
+          "date": "2014-11-13T19:36:23Z"
+        },
+        "committer": {
+          "name": "Alexey Pyalling",
+          "email": "alexey@ooyala.com",
+          "date": "2014-11-13T19:36:23Z"
+        },
+        "message": " adding MaxThriftSize getter and setter to astynax configuration. Client can set maxThriftSize to be in sync with cassandra yaml thrift_max_message_length_in_mb paramter",
+        "tree": {
+          "sha": "0647d7919949ff6c8f3ba25c3d209ae6ea859d6b",
+          "url": "https://api.github.com/repos/Netflix/astyanax/git/trees/0647d7919949ff6c8f3ba25c3d209ae6ea859d6b"
+        },
+        "url": "https://api.github.com/repos/Netflix/astyanax/git/commits/be43e7581cb96839f3fb5895d7210fcd7711f6ec",
+        "comment_count": 0
+      },
+      "url": "https://api.github.com/repos/Netflix/astyanax/commits/be43e7581cb96839f3fb5895d7210fcd7711f6ec",
+      "html_url": "https://github.com/Netflix/astyanax/commit/be43e7581cb96839f3fb5895d7210fcd7711f6ec",
+      "comments_url": "https://api.github.com/repos/Netflix/astyanax/commits/be43e7581cb96839f3fb5895d7210fcd7711f6ec/comments",
+      "author": null,
+      "committer": null,
+      "parents": [
+        {
+          "sha": "bf1119eb7fd2bc55a127a8bbdf728504f099e8cc",
+          "url": "https://api.github.com/repos/Netflix/astyanax/commits/bf1119eb7fd2bc55a127a8bbdf728504f099e8cc",
+          "html_url": "https://github.com/Netflix/astyanax/commit/bf1119eb7fd2bc55a127a8bbdf728504f099e8cc"
+        }
+      ]
+    }
   ]
 }
