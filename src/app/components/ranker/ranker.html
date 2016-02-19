@@ -1,11 +1,11 @@
 <section>
-  <view-by></view-by>
+  <view-by [by]="viewBy"></view-by>
 </section>
 
 <section>
   <ul class="repos">
     <li
-      *ngFor="#repo of repos"
+      *ngFor="#repo of repos | rank: viewBy"
     >
       <repo [data]="repo"></repo>
     </li>

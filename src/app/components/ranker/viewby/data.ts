@@ -2,23 +2,19 @@ export default {
   viewby: [
     {
       name: 'Stars',
-      api_name: 'stargazers_count',
-      isActive: true
+      api_name: 'stargazers_count'
     },
     {
       name: 'Watchers',
-      api_name: 'watchers_count',
-      isActive: false
+      api_name: 'watchers_count'
     },
     {
       name: 'Forks',
-      api_name: 'forks_count',
-      isActive: false
+      api_name: 'forks_count'
     },
     {
       name: 'Open Issues',
-      api_name: 'open_issues_count',
-      isActive: false
+      api_name: 'open_issues_count'
     }
   ]
 }
