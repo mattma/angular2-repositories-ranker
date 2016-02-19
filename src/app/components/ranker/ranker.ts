@@ -1,5 +1,5 @@
-import {Component, OnInit, OnDestroy} from 'angular2/core';
-import {Http} from 'angular2/http';
+import {Component, Input, OnInit, OnDestroy} from 'angular2/core';
+import {Http, Response} from 'angular2/http';
 
 import {AppStore} from '../../common/stores/main-store';
 import {RankPipe} from '../pipes/rank';
@@ -9,7 +9,6 @@ import {OrderByComponent} from './orderby/orderby';
 import {RepoComponent} from './repo/repo';
 import {CommitsComponent} from './commits/commits';
 
-import data from './data';
 import './ranker.sass';
 const template = require('./ranker.html');
 
@@ -20,17 +19,16 @@ const template = require('./ranker.html');
   template
 })
 export class RankerComponent implements OnInit, OnDestroy {
-  repos: any[];
   commits: any[];
   viewBy: string;
   orderBy: string;
   showCommits: boolean;
   unsubscribe: Function;
+  @Input() repos: any[];
 
   constructor(
     private http: Http,
     private store: AppStore
-    // private actions: AppActions
   ) {
     this.unsubscribe = this.store.subscribe(state => {
       this.viewBy = state.viewBy;
@@ -39,20 +37,22 @@ export class RankerComponent implements OnInit, OnDestroy {
   }
 
   ngOnInit(): void {
-    this.repos = data.netflix;
-    this.commits = data.commits;
-    this.showCommits = true;
+    // this.repos = mockData.netflix;
+    // this.commits = mockData.commits;
+    this.showCommits = false;
 
     const state = this.store.getState();
     this.viewBy = state.viewBy;
     this.orderBy = state.orderBy;
-
-    console.log('this.repos: ', this.repos);
   }
 
   onViewCommits(url: string): void {
-    console.log('url: ', url);
-    this.showCommits = true;
+    this.http.get(url)
+      .map((res: Response) => res.json())
+      .subscribe((data) => {
+        this.commits = data;
+        this.showCommits = true;
+      });
   }
 
   onHideCommits(): void {

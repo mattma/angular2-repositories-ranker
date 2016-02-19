@@ -1,4 +1,5 @@
 import {Component} from 'angular2/core';
+import {Http, Response} from 'angular2/http';
 
 import {RankerComponent} from '../ranker/ranker';
 
@@ -17,11 +18,18 @@ import './app.sass';
     </header>
 
     <main>
-      <ranker></ranker>
+      <ranker [repos]="repos"></ranker>
     </main>
   `
 })
 export class App {
-  name = 'Netflix Projects on Github';
-  constructor() { }
+  name: string;
+  repos: any;
+
+  constructor(private http: Http) {
+    this.name = 'Netflix Projects on Github';
+    this.http.get('https://api.github.com/orgs/netflix/repos')
+      .map((res: Response) => res.json())
+      .subscribe((data) => this.repos = data);
+  }
 }

@@ -11,7 +11,7 @@
     <li>Open Issues: <strong>{{data.open_issues_count}}</strong></li>
     <li>
       <Button
-        (click)="viewCommits.emit(data.git_commits_url)"
+        (click)="viewCommits.emit(data.url+'/commits')"
         class="view-commit-btn"
       >View Recent Commits</Button>
     </li>
