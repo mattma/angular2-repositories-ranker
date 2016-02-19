@@ -5,6 +5,7 @@ import {AppStore} from '../../common/stores/main-store';
 import {RankPipe} from '../pipes/rank';
 
 import {ViewByComponent} from './viewby/viewby';
+import {OrderByComponent} from './orderby/orderby';
 import {RepoComponent} from './repo/repo';
 
 import data from './data';
@@ -13,13 +14,14 @@ const template = require('./ranker.html');
 
 @Component({
   selector: 'ranker',
-  directives: [ViewByComponent, RepoComponent],
+  directives: [ViewByComponent, RepoComponent, OrderByComponent],
   pipes: [RankPipe],
   template
 })
 export class RankerComponent implements OnInit, OnDestroy {
   repos: any[];
   viewBy: string;
+  orderBy: string;
   unsubscribe: Function;
 
   constructor(
@@ -29,6 +31,7 @@ export class RankerComponent implements OnInit, OnDestroy {
   ) {
     this.unsubscribe = this.store.subscribe(state => {
       this.viewBy = state.viewBy;
+      this.orderBy = state.orderBy;
     });
   }
 
@@ -37,6 +40,7 @@ export class RankerComponent implements OnInit, OnDestroy {
 
     const state = this.store.getState();
     this.viewBy = state.viewBy;
+    this.orderBy = state.orderBy;
 
     console.log('this.repos: ', this.repos);
   }

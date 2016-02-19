@@ -1,11 +1,12 @@
 <section>
   <view-by [by]="viewBy"></view-by>
+  <order-by [by]="orderBy"></order-by>
 </section>
 
 <section>
   <ul class="repos">
     <li
-      *ngFor="#repo of repos | rank: viewBy"
+      *ngFor="#repo of repos | rank: viewBy : orderBy"
     >
       <repo [data]="repo"></repo>
     </li>
