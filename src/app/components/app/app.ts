@@ -2,6 +2,7 @@ import {Component} from 'angular2/core';
 
 import {RankerComponent} from '../ranker/ranker';
 
+import '../../../assets/styles/_reset.sass';
 import './app.sass';
 
 /*

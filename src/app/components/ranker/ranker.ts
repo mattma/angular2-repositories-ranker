@@ -5,6 +5,7 @@ import {ViewByComponent} from './viewby/viewby';
 import {RepoComponent} from './repo/repo';
 
 import data from './data';
+import './ranker.sass';
 const template = require('./ranker.html');
 
 @Component({
