@@ -14,7 +14,15 @@ import './app.sass';
   directives: [RankerComponent],
   template: `
     <header>
-      <h1>{{name}}</h1>
+      <h1>Organization: {{name}}</h1>
+      <div>
+        <input
+          #org
+          type="text"
+          (keyup.enter)="searchGithub(org)"
+          placeholder="Github Organizations Names. Ex: netflix, angular, reactjs">
+        <button (click)="searchGithub(org)">Search</button>
+      </div>
     </header>
 
     <main>
@@ -27,9 +35,19 @@ export class App {
   repos: any;
 
   constructor(private http: Http) {
-    this.name = 'Netflix Projects on Github';
-    this.http.get('https://api.github.com/orgs/netflix/repos')
+    this.fetcher('netflix');
+  }
+
+  fetcher(name: string): void {
+    this.name = name;
+    this.http.get(`https://api.github.com/orgs/${name}/repos`)
       .map((res: Response) => res.json())
       .subscribe((data) => this.repos = data);
+  }
+
+  searchGithub(org: HTMLInputElement): void {
+    const name = org.value.trim();
+    this.fetcher(name);
+    org.value = null;
   }
 }
