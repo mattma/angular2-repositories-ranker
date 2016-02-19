@@ -1,6 +1,6 @@
 import {SET_ORDER_BY} from '../actions/app';
 
-const initialState: string = "descending";
+const initialState: string = 'descending';
 
 export function OrderByReducer(state: string = initialState, action): string {
   switch (action.type) {
@@ -11,4 +11,4 @@ export function OrderByReducer(state: string = initialState, action): string {
     default:
       return state;
   }
-};
+}

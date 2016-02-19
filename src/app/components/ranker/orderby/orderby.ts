@@ -1,4 +1,4 @@
-import {Component, Input, ChangeDetectionStrategy, OnInit} from 'angular2/core';
+import {Component, Input, ChangeDetectionStrategy} from 'angular2/core';
 
 import {AppStore} from '../../../common/stores/main-store';
 import {AppActions} from '../../redux/actions/app';

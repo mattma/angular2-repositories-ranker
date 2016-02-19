@@ -1,6 +1,5 @@
-import {provide, enableProdMode} from 'angular2/core';
+import {enableProdMode} from 'angular2/core';
 import {bootstrap, ELEMENT_PROBE_PROVIDERS} from 'angular2/platform/browser';
-import {ROUTER_PROVIDERS, LocationStrategy, HashLocationStrategy} from 'angular2/router';
 import {HTTP_PROVIDERS} from 'angular2/http';
 import {AppStore} from './common/stores/main-store';
 import {AppActions} from './components/redux/actions/app';
@@ -27,8 +26,6 @@ document.addEventListener('DOMContentLoaded', function main() {
   bootstrap(App, [
     ...ENV_PROVIDERS,
     ...HTTP_PROVIDERS,
-    ...ROUTER_PROVIDERS,
-    provide(LocationStrategy, {useClass: HashLocationStrategy}),
     AppStore,
     AppActions
   ])

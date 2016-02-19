@@ -29,6 +29,26 @@ npm start
 open http://localhost:4200
 ```
 
+## Linting Typescript file (Tested, No errors)
+
+```bash
+npm run lint
+```
+
+## Build for production
+
+```bash
+# minify codes, bundled files, hashable file path
+npm run build
+
+# server production file
+npm run server:prod
+
+# go to `http:127.0.0.1:8080` in your browser
+# If port 8080 is unavailable, it will use the next available port
+open http://localhost:8080
+```
+
 ## How it works
 
 ![github-repo-ranker](https://cloud.githubusercontent.com/assets/1148428/13168758/ad3977ea-d694-11e5-8c55-bde69a504e04.gif)

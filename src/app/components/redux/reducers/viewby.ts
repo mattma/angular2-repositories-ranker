@@ -1,6 +1,6 @@
 import {SET_VIEW_BY} from '../actions/app';
 
-const initialState: string = "stargazers_count";
+const initialState: string = 'stargazers_count';
 
 export function ViewByReducer(state: string = initialState, action): string {
   switch (action.type) {
@@ -11,4 +11,4 @@ export function ViewByReducer(state: string = initialState, action): string {
     default:
       return state;
   }
-};
+}

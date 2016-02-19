@@ -3,7 +3,7 @@ import {Pipe, PipeTransform} from 'angular2/core';
 @Pipe({
   name: 'rank'
 })
-export class RankPipe implements PipeTransform{
+export class RankPipe implements PipeTransform {
   transform(repos: any, [viewBy, orderBy]) {
     return repos.sort((a, b) =>
       orderBy === 'descending' ?
