@@ -1,5 +1,7 @@
 import {Component} from 'angular2/core';
 
+import {RankerComponent} from '../ranker/ranker';
+
 import './app.sass';
 
 /*
@@ -7,9 +9,18 @@ import './app.sass';
  */
 @Component({
   selector: 'app',
-  template: require('./app.html')
+  directives: [RankerComponent],
+  template: `
+    <header>
+      <h1>{{name}}</h1>
+    </header>
+
+    <main>
+      <ranker></ranker>
+    </main>
+  `
 })
 export class App {
-  name = 'Angular2 Rocks';
+  name = 'Netflix Projects on Github';
   constructor() { }
 }
